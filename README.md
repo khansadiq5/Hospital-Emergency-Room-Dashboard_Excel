@@ -9,7 +9,7 @@ The Hospital Emergency Room Dashboard solves this problem by consolidating all e
 
 ## 👉 Dataset
 The dataset used in this project:
- - <a href = "https://github.com/khansadiq5/Hospital-Emergency-Room-Report-Dashboard_Excel/blob/main/Dashboard.xlsx"> Hospital Emergency Room Data </a>
+ - <a href = "https://github.com/khansadiq5/Hospital-Emergency-Room-Dashboard_Excel/blob/main/Dashboard.xlsx"> Hospital Emergency Room Data </a>
 
 ## 📌 Key KPIs
 
@@ -44,11 +44,11 @@ The dataset used in this project:
  - Supports hospital resource planning and better patient care
 
 ## 👉 Dashboard Link
- - <a href = "https://github.com/khansadiq5/Hospital-Emergency-Room-Report-Dashboard_Excel/blob/main/Dashboard.xlsx"> Click to View Dashboard </a>
+ - <a href = "https://github.com/khansadiq5/Hospital-Emergency-Room-Dashboard_Excel/blob/main/Dashboard.xlsx"> Click to View Dashboard </a>
 
 ## 👉 Dashboard Preview
 Below is a snapshot of the Excel dashboard
-<img width="1812" height="814" alt="Dashboard-image" src="https://github.com/user-attachments/assets/1e9b22e9-ce9d-4f0d-9f91-237e5cdc06b5" />
+<img width="1812" height="814" alt="Dashboard-image" src="https://github.com/user-attachments/assets/2395a117-8baf-411d-9e59-5f2bbb874eb7" />
 
 ## 📌 Tools Used
 
