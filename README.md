@@ -1,4 +1,4 @@
-# Hospital-Emergency-Room-Dashboard_Excel
+# Hospital-Emergency-Room-Dashboard (Excel)
 ## Project Objective 
 This project contains a Hospital Emergency Room Dashboard created using Excel. It tracks key emergency room metrics such as patient inflow, wait time, satisfaction levels, admission status, gender distribution, age group analysis, and department referrals. The dashboard provides a clear picture of hospital ER performance, helping management improve patient care and operational efficiency.
 
